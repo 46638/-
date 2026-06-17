@@ -27,11 +27,6 @@
 To ensure core system integrity, automatic updates, and real-time node synchronization, all compiled binary packages and stable releases are distributed exclusively through our official ecosystem.
 为确保核心系统的完整性、自动更新以及节点的实时同步，所有编译好的二进制安装包及稳定版本均仅通过我们的官方生态系统进行分发。
 
-<p align="center">
-  <a href="https://arbitrage-bot.pro/download.php" style="font-weight: bold; font-size: 16px; color: #00ffa3; text-decoration: none;">
-    DOWNLOAD OFFICIAL CORTEX AI CRYPTO ARBITRAGE BOT WINDOWS EXE
-  </a>
-</p>
 
 ---
 *Note: Distributed network architecture guarantees uncorrupted binaries and mirrors identical low-latency routing tables for TON, Solana, and EVM instances.*
